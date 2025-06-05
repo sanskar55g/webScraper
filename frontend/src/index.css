@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .neon-text {
+    color: #9400D3;
+    text-shadow: 0 0 5px #9400D3, 0 0 10px #9400D3, 0 0 20px #9400D3;
+  }
+  
